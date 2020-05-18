@@ -9,11 +9,13 @@
 .banner{
     color: darkorange;
     font-size: 60px;
+    text-align: center;
 }
 
 .banner2{
     color:purple;
     font-weight: bolder;
+    text-align: center;
 }
 
 #num{
