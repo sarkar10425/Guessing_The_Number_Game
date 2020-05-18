@@ -22,3 +22,23 @@
 .list-group{
     padding: 3rem;
 }
+
+.zone{
+    text-align: center;
+    background-color: yellow;
+    overflow: hidden;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.developer{
+    font-weight: bolder;
+    font-style: italic;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.name{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+}
