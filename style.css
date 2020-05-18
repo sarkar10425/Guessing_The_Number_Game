@@ -11,6 +11,11 @@
     font-size: 60px;
 }
 
+.banner2{
+    color:purple;
+    font-weight: bolder;
+}
+
 #num{
     border-radius: 2rem;
 }
