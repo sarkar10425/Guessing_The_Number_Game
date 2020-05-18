@@ -1,0 +1,24 @@
+.navbar{
+    background-color: black;
+}
+
+.flex-container{
+    display: flex;
+    justify-content: center;
+}
+.banner{
+    color: darkorange;
+    font-size: 60px;
+}
+
+#num{
+    border-radius: 2rem;
+}
+
+.list-group-item{
+    background-color: violet;
+    color: black;
+}
+.list-group{
+    padding: 3rem;
+}
